@@ -1,4 +1,4 @@
-# See https://help.github.com/ignore-files/ for more about ignoring files.
+﻿# See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
@@ -23,4 +23,3 @@ yarn-error.log*
 .env
 
 # sleppum styles.css þar sem það verður búið til út frá styles.scss
-styles.css
