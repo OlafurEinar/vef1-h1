@@ -2,17 +2,17 @@
 # Hópverkefni 1
 
 
-## Til að keyra 
+### Til að keyra 
 
 blabla
 
-## Lýsing á upsetningu
+### Lýsing á upsetningu
 
 
 ### Þeir sem unnu verkefnið
 
-Ólafur Einar Ómarsson
-oeo1@hi.is
+nafn: Ólafur Einar Ómarsson 
+netfang: oeo1@hi.is
 git: OlafurEinar
 
 nafn: Kolbeinn Kárason 

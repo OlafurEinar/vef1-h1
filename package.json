@@ -1,0 +1,22 @@
+{
+  "name": "vef1-h1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "browser-sync": "browser-sync start --server --files index.html styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlafurEinar/vef1-h1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlafurEinar/vef1-h1/issues"
+  },
+  "homepage": "https://github.com/OlafurEinar/vef1-h1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
