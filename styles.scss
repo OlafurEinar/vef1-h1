@@ -358,6 +358,23 @@ header a {
   margin-bottom: 20px;
 }
 
+@media (max-width: 400px) {
+  .info__text {
+    width: 100%;
+    transition: ease-in-out 0.3s;
+  }
+
+  .info__content {
+    flex-wrap: wrap;
+    transition: ease-in-out 0.3s;
+  }
+
+  .info__box {
+    width: 100%;
+    transition: ease-in-out 0.3s;
+  }
+}
+
 @media (min-width: 701px) {
   .grid__row {
     flex-direction: row;
