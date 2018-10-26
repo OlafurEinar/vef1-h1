@@ -4,23 +4,32 @@
 
 ### Til að keyra 
 
-blabla
+Til að setja up tól:
+npm install.
+npm install stylelint-config-primer.
+npm install sass.
+
+Til að búa til styles.css:
+npm run sass.
+
+Til að keyra stylelint:
+npm run lint.
 
 ### Lýsing á upsetningu
-
+Uppsetning  á verkefni eins og í verklýsingu auk scss möppu með einni skrá.
 
 ### Þeir sem unnu verkefnið
 
-nafn: Ólafur Einar Ómarsson 
-netfang: oeo1@hi.is
-git: OlafurEinar
+nafn: Ólafur Einar Ómarsson.
+netfang: oeo1@hi.is.
+git: OlafurEinar.
 
-nafn: Kolbeinn Kárason 
-netfang: kok27@hi.is
-git: kolbeinnk
+nafn: Kolbeinn Kárason. 
+netfang: kok27@hi.is.
+git: kolbeinnk.
 
 
-
+********************************************
 
 Verkefnið felst í því að smíða vef eftir forskrift.
 

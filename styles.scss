@@ -285,6 +285,14 @@ header a {
   }
 }
 
+.card__back {
+  transform: rotateX(0deg);
+}
+
+.card__front {
+  transform: rotateX(0deg);
+}
+
 .center {
   display: flex;
   align-items: center;
