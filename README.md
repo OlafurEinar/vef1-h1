@@ -16,7 +16,16 @@ Til að keyra stylelint: \
 npm run lint.
 
 ### Lýsing á upsetningu
-Uppsetning  á verkefni eins og í verklýsingu auk scss möppu með einni skrá.
+Uppsetning  á verkefni eins og í verklýsingu auk scss möppu með einni skrá. 
+
+Uppsetning CSS (allt í einni skrá, kaflaskipt með kommentum): \
+Uppsetning síðu \
+Uppsetning texta almennt \
+Uppsetning takka \
+Uppsetning körfu \
+Uppsetning spjalda \
+Uppsetning grid \
+@media breytingar 
 
 ### Þeir sem unnu verkefnið
 
