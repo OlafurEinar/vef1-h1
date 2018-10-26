@@ -4,9 +4,9 @@
 
 ### Til að keyra 
 
-Til að setja up tól:
-npm install.
-npm install stylelint-config-primer.
+Til að setja up tól \
+npm install \
+npm install stylelint-config-primer \
 npm install sass.
 
 Til að búa til styles.css:
@@ -20,13 +20,17 @@ Uppsetning  á verkefni eins og í verklýsingu auk scss möppu með einni skrá
 
 ### Þeir sem unnu verkefnið
 
-nafn: Ólafur Einar Ómarsson.
-netfang: oeo1@hi.is.
-git: OlafurEinar.
+nafn: Ólafur Einar Ómarsson
 
-nafn: Kolbeinn Kárason. 
-netfang: kok27@hi.is.
-git: kolbeinnk.
+netfang: oeo1@hi.is
+
+git: OlafurEinar
+
+nafn: Kolbeinn Kárason
+
+netfang: kok27@hi.is
+
+git: kolbeinnk
 
 
 ********************************************
