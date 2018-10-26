@@ -22,11 +22,11 @@ Uppsetning  á verkefni eins og í verklýsingu auk scss möppu með einni skrá
 
 nafn: Ólafur Einar Ómarsson\
 netfang: oeo1@hi.is\
-git: OlafurEinar\
+git: OlafurEinar
 
 nafn: Kolbeinn Kárason\
 netfang: kok27@hi.is\
-git: kolbeinnk\
+git: kolbeinnk
 
 
 ********************************************
