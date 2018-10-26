@@ -1,4 +1,3 @@
-@import "scss/config";
 @import "scss/grid";
 
 * {
@@ -11,6 +10,8 @@
 *::after {
   box-sizing: inherit;
 }
+
+/* uppsetning síðu */
 
 html {
   /* stylelint-disable-line */
@@ -44,6 +45,8 @@ footer {
     margin: 0 auto;
   }
 }
+
+/* uppsetning texta */
 
 h1 {
   font-family: Oswald, sans-serif;
@@ -131,6 +134,8 @@ header a {
   max-width: 100%;
 }
 
+/* uppsetning takka */
+
 .button__red {
   width: 42%;
   padding-top: 10px;
@@ -186,6 +191,8 @@ header a {
   max-height: 20px;
   margin: 0 5px;
 }
+
+/* uppsetning körfu */
 
 .cart__content {
   display: flex;
@@ -280,8 +287,6 @@ header a {
     display: block;
     text-align: center;
     transform: rotateY(180deg);
-
-    /* sjáum ekki bakhliðina strax */
   }
 }
 

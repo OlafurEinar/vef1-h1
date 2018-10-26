@@ -5,12 +5,14 @@
   "main": "index.js",
   "dependencies": {
     "node-sass": "^4.9.4",
-    "stylelint-config-primer": "^2.2.11",
-    "stylelint": "^9.6.0"
+    "sass": "^1.14.3",
+    "stylelint": "^9.6.0",
+    "stylelint-config-primer": "^2.2.11"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "node-sass --source-map-embed styles.scss styles.css",
+    "lint": "stylelint styles.scss --syntax scss"
   },
   "repository": {
     "type": "git",
